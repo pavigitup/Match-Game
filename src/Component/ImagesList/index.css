@@ -1,0 +1,15 @@
+.img-btn {
+  background-color: transparent;
+  border: none;
+  margin: 5px;
+}
+
+.image {
+  height: 100px;
+}
+
+@media (min-width: 768px) {
+  .image {
+    height: 110px;
+  }
+}
